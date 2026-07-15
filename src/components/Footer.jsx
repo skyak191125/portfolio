@@ -82,7 +82,7 @@ function Footer() {
           })
         }
       >
-
+        <FaArrowUp />
       </button>
 
     </footer>
