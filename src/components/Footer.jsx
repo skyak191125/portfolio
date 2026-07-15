@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      © 2026 AKASH KUMAR 
+      DESIGNED BY AKASH KUMAR |© 2026 ALL RIGHTS RESERVED
     </footer>
   );
 }
