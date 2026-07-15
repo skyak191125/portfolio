@@ -28,7 +28,7 @@ function Resume() {
 
       <div className="resume-card">
 
-        <h2>AK Kumar</h2>
+        <h2>Akash Kumar</h2>
 
         <h3>Frontend React Developer</h3>
 
