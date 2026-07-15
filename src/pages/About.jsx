@@ -77,7 +77,7 @@ function About() {
 
               <div>
                 <h4>Email</h4>
-                <span>example@email.com</span>
+                <span>akashkr21870@gmail.com</span>
               </div>
 
             </div>
@@ -88,7 +88,7 @@ function About() {
 
               <div>
                 <h4>Phone</h4>
-                <span>+91 XXXXX XXXXX</span>
+                <span>+91 7292931928</span>
               </div>
 
             </div>
@@ -99,7 +99,7 @@ function About() {
 
               <div>
                 <h4>Location</h4>
-                <span>India</span>
+                <span>India Bihar</span>
               </div>
 
             </div>
