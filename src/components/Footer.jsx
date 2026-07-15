@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      © 2026 AK | React Portfolio
+      © 2026 AKASH KUMAR 
     </footer>
   );
 }
