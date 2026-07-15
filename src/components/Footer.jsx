@@ -46,15 +46,15 @@ function Footer() {
 
           <div className="footer-social">
 
-            <a href="https://github.com/" target="_blank">
+            <a href="https://github.com/skyak191125" target="_blank">
               <FaGithub />
             </a>
 
-            <a href="https://linkedin.com/" target="_blank">
+            <a href="#" target="_blank">
               <FaLinkedin />
             </a>
 
-            <a href="https://instagram.com/" target="_blank">
+            <a href="https://www.instagram.com/a_k_a_s_h_00500/" target="_blank">
               <FaInstagram />
             </a>
 
