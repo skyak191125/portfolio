@@ -57,9 +57,7 @@ function Home() {
 
         <div className="buttons">
 
-          <button className="btn primary">
-            Download CV
-          </button>
+<a href="tel:+917292931928" className="hire-btn"> Hire Me</a>
 
           <button className="btn secondary">
             View Projects

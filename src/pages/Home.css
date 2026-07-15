@@ -329,3 +329,30 @@ transform:translate(-50%,10px);
 
 }
 
+
+.hire-btn{
+
+    padding:12px 28px;
+
+    border:none;
+    border-radius:30px;
+
+    cursor:pointer;
+
+    color:white;
+
+    background:linear-gradient(90deg,#2563eb,#7c3aed);
+
+    transition:.35s;
+    text-decoration: none;
+}
+
+
+
+
+.hire-btn:hover{
+
+    transform:translateY(-4px);
+
+    box-shadow:0 10px 25px rgba(37,99,235,.35);
+}

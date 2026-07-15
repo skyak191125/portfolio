@@ -58,7 +58,7 @@ function Navbar() {
   Hire Me
 </button> */}
 
-<a href="tel:+917292931928" className="hire-btn"> Hire Me</a>
+{/* <a href="tel:+917292931928" className="hire-btn"> Hire Me</a> */}
       {/* Mobile Icon */}
 
       <div

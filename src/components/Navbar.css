@@ -155,10 +155,10 @@ nav a.active::after{
 
 @media(max-width:900px){
 
-    .hire-btn{
+    /* .hire-btn{
 
-        display:none;
-    }
+       
+    } */
 
     .menu-btn{
 
