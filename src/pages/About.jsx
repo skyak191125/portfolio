@@ -42,7 +42,7 @@ function About() {
         <div className="about-content">
 
           <h2>
-            Hi, I'm <span>AK Kumar</span>
+            Hi, I'm <span>Akash Kumar</span>
           </h2>
 
           <h3>Frontend React Developer</h3>
