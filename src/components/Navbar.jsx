@@ -51,7 +51,7 @@ function Navbar() {
         <NavLink to="/contact" onClick={() => setMenu(false)}>
           Contact
         </NavLink>
-
+    
       </nav>
 
       {/* <button className="hire-btn" onClick={handleHireMe}  >

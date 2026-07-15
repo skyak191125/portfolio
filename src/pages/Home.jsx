@@ -1,5 +1,5 @@
 import "./Home.css";
-import profile from "../assets/project2.jpg";
+import profile from "../assets/profile.png";
 
 import {
   FaGithub,
