@@ -24,7 +24,7 @@ function Home() {
         <p className="greeting">👋 Hello, I'm</p>
 
         <h1>
-          AK <span>Kumar</span>
+          AKASH <span>Kumar</span>
         </h1>
 
         <div className="typing">
