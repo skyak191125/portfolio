@@ -1,6 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from "react";
-import { useLocation } from "react-router-dom";
 import NProgress from "nprogress";
 import "nprogress/nprogress.css";
 
@@ -14,7 +13,6 @@ import Projects from "./pages/Projects";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
-// Loading Bar Component
 function LoadingBar() {
   const location = useLocation();
 
@@ -36,7 +34,7 @@ function LoadingBar() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
       <LoadingBar />
 
       <Navbar />
@@ -51,7 +49,7 @@ function App() {
       </Routes>
 
       <Footer />
-    </BrowserRouter>
+    </>
   );
 }
 
