@@ -29,6 +29,10 @@ function Navbar() {
 
 
       <nav className={menu ? "nav active" : "nav"}>
+        <button
+    className="close-btn"
+    onClick={() => setMenuOpen(false)}
+  ></button>
 
         <NavLink to="/" end onClick={() => setMenu(false)}>
           Home
