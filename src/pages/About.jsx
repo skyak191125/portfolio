@@ -66,7 +66,7 @@ function About() {
 
               <div>
                 <h4>Name</h4>
-                <span>AK Kumar</span>
+                <span>Akash Kumar</span>
               </div>
 
             </div>
