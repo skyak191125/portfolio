@@ -92,6 +92,9 @@ nav a.active::after{
     width:100%;
 }
 
+
+
+
 .hire-btn{
 
     padding:12px 28px;
@@ -106,7 +109,11 @@ nav a.active::after{
     background:linear-gradient(90deg,#2563eb,#7c3aed);
 
     transition:.35s;
+    text-decoration: none;
 }
+
+
+
 
 .hire-btn:hover{
 

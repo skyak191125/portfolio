@@ -54,9 +54,11 @@ function Navbar() {
 
       </nav>
 
-      <button className="hire-btn" onClick={handleHireMe}>
+      {/* <button className="hire-btn" onClick={handleHireMe}  >
   Hire Me
-</button>
+</button> */}
+
+<a href="tel:+917292931928" className="hire-btn"> Hire Me</a>
       {/* Mobile Icon */}
 
       <div

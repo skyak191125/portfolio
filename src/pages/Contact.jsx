@@ -88,7 +88,7 @@ function Contact() {
             <FaPhoneAlt />
             <div>
               <h3>Phone</h3>
-              <p>+91 XXXXX XXXXX</p>
+              <p>+91 7292931928</p>
             </div>
           </div>
 
@@ -96,7 +96,7 @@ function Contact() {
             <FaEnvelope />
             <div>
               <h3>Email</h3>
-              <p>youremail@gmail.com</p>
+              <p>akashkr21870@gmail.com</p>
             </div>
           </div>
 
@@ -104,7 +104,7 @@ function Contact() {
             <FaMapMarkerAlt />
             <div>
               <h3>Location</h3>
-              <p>India</p>
+              <p>India Bihar </p>
             </div>
           </div>
 
