@@ -111,7 +111,7 @@ function Contact() {
           <div className="social-links">
 
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/skyak191125"
               target="_blank"
               rel="noreferrer"
             >
@@ -119,7 +119,7 @@ function Contact() {
             </a>
 
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="#"
               target="_blank"
               rel="noreferrer"
             >
@@ -127,7 +127,7 @@ function Contact() {
             </a>
 
             <a
-              href="https://instagram.com/yourusername"
+              href="https://www.instagram.com/a_k_a_s_h_00500/"
               target="_blank"
               rel="noreferrer"
             >
