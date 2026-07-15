@@ -113,7 +113,7 @@ function Contact() {
             <a
               href="https://github.com/skyak191125"
               target="_blank"
-              rel="noreferrer"
+         
             >
               <FaGithub />
             </a>
@@ -121,7 +121,7 @@ function Contact() {
             <a
               href="#"
               target="_blank"
-              rel="noreferrer"
+             
             >
               <FaLinkedin />
             </a>
@@ -129,7 +129,7 @@ function Contact() {
             <a
               href="https://www.instagram.com/a_k_a_s_h_00500/"
               target="_blank"
-              rel="noreferrer"
+          
             >
               <FaInstagram />
             </a>
