@@ -21,7 +21,7 @@ function Navbar() {
     <header className="navbar">
 
       <div className="logo">
-        AK<span>.</span>
+        AK<span>ASH</span>
       </div>
 
       {/* Desktop Menu */}
