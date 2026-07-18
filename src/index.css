@@ -4,3 +4,20 @@ footer{
     font-weight: 200
 ;
 }
+
+/* Progress Bar */
+#nprogress .bar {
+  background: #F5276C;
+  height: 4px;
+}
+
+/* Glow Effect */
+#nprogress .peg {
+  box-shadow: 0 0 10px #E91FFF, 0 0 5px #E91FFF;
+}
+
+/* Spinner */
+#nprogress .spinner-icon {
+  border-top-color: #F5276C;
+  border-left-color: #F5276C;
+}
