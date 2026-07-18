@@ -9,36 +9,36 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 const projects = [
   {
     id: 1,
-    title: "Portfolio Website",
+    title: "Feedback ",
     image: portfolio,
     description:
-      "Modern responsive portfolio built with React and CSS.",
+      "Modern responsive feddback system.",
 
     tech: ["React", "CSS", "Responsive"],
 
     github: "#",
-    demo: "#",
+    demo: "https://feeds.free.nf/feedback.php?bill_no=7292931",
   },
 
   {
     id: 2,
-    title: "Weather App",
+    title: "Wedding website",
     image: weather,
     description:
-      "Weather application using API integration and React.",
+      "Wedding application with admin dashboard.",
 
     tech: ["React", "API", "JavaScript"],
 
     github: "#",
-    demo: "#",
+    demo: "https://ykjfeedback.free.nf/wed/index.php",
   },
 
   {
     id: 3,
-    title: "E-Commerce Website",
+    title: "Advertisement website",
     image: ecommerce,
     description:
-      "Responsive shopping website with modern UI.",
+      "Responsive Advertisement website with modern UI.",
 
     tech: ["React", "Node", "MongoDB"],
 
@@ -78,7 +78,7 @@ function Projects() {
                 alt={project.title}
               />
 
-            </div>
+            </div>  
 
             <div className="project-content">
 
