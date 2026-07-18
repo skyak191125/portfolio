@@ -43,7 +43,7 @@ const projects = [
     tech: ["React", "Node", "MongoDB"],
 
     github: "#",
-    demo: "#",
+    demo: "https://ykjfeedback.free.nf",
   },
 ];
 
