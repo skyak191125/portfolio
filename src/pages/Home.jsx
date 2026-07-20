@@ -1,6 +1,6 @@
 import "./Home.css";
 import profile from "../assets/profile.png";
-
+import { useNavigate } from "react-router-dom";
 import {
   FaGithub,
   FaLinkedin,
@@ -11,6 +11,8 @@ import {
 import { TypeAnimation } from "react-type-animation";
 
 function Home() {
+   const navigate = useNavigate();
+
   return (
     <section className="hero">
 
@@ -59,9 +61,14 @@ function Home() {
 
 <a href="tel:+917292931928" className="hire-btn"> Hire Me</a>
 
-          <button className="btn secondary">
-            View Projects
-          </button>
+          <button
+        className="btn secondary"
+        onClick={() => navigate("/projects")}
+      >
+        View Projects
+      </button>
+
+              
 
         </div>
 
@@ -153,5 +160,9 @@ function Home() {
     </section>
   );
 }
+
+
+ 
+
 
 export default Home;
